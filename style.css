@@ -1,28 +1,17 @@
 body {
- background-image: url("http://orig04.deviantart.net/196e/f/2013/260/7/0/cristano_ronaldo_background_full_hd_by_mohammad98-d6mo3n8.png");
+ background-image: url("https://i.ytimg.com/vi/tkeGRj-nqaU/maxresdefault.jpg");
 }
     
-h2{ color: aqua;
+h2{ 
+    color:darkgrey;
+
     
 }  
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+h1{
+    color:red;
+}
+
+p{
+   color: bisque
+}
+
