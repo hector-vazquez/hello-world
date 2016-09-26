@@ -1,5 +1,6 @@
 body {
- background-image: url("http://kingofwallpapers.com/real-madrid/real-madrid-013.jpg");
+    background-size:cover;
+ background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnwzLEh1Y2-ZAuCOxnXEYeKqXP9m2-QLhhnToRj0Tmm6oVumpm");
 }
     
 h2{ 
@@ -16,7 +17,7 @@ p{
 }
 .white{
   background-color:maroon;
-  padding:5px 10px
+  padding:5px 10px;
   border: 1px solid white;
   text-align: center;
 }
@@ -24,4 +25,7 @@ p{
   Background-image:url("http://www.theblogboutique.com/wp-content/uploads/2009/11/simply-solids-two-royal-blue.png");
     border: 4px solid maroon;
   text-align: center;
+}
+.intro{
+    padding:5px 10px;
 }
