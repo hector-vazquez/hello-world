@@ -1,6 +1,6 @@
 body {
     background-size:cover;
- background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnwzLEh1Y2-ZAuCOxnXEYeKqXP9m2-QLhhnToRj0Tmm6oVumpm");
+ background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkGXK-chPEbjB6waXnLCQh12XHz-sJOtfjXWPyBXwXAyS-jon1kA");
 }
     
 h2{ 
@@ -26,6 +26,36 @@ p{
     border: 4px solid maroon;
   text-align: center;
 }
-.intro{
-    padding:5px 10px;
+.intro{    padding:5px 10px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+h2{ color:aqua;
+}
+ 
+h3{color:green;
 }
