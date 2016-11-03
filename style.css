@@ -35,7 +35,8 @@ p{
  font-family: 'Orbitron', sans-serif;
  
 }
-.intro{    padding:5px 10px;
+.intro{    
+    padding:5px 10px;
 }
 
 
@@ -66,3 +67,16 @@ li a:hover {
 h2{ color:yellow;
 }
  
+.row{
+     background-color:maroon;
+  padding:10px 5px;
+    text-align: center;
+   
+  } 
+
+#space{
+    
+}
+    background-color: aqua;
+   padding:10px 5px;
+  text-align:center;
